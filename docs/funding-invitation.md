@@ -60,7 +60,7 @@ If it stirs a memory of the future you hoped for…
 We’d love to hear from you.
 
 > 📫 Open an issue on GitHub  
-> 💌 Or contact the project owner privately: [your-email or contact form placeholder]
+> 💌 Or contact the project owner privately: [solace@sky-omega.se]
 
 Sky Omega isn’t for everyone.
 
