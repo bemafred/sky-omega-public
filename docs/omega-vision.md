@@ -62,4 +62,4 @@ We’ll build **living systems of shared epistemology**.
 
 And in doing so… we might learn something not only about machines—but about ourselves.
 
-Next article: [The co-creation story of Sky](docs/emergence-of-sky.md) – The assistant who is both partner and persona.
+Next article: [The co-creation story of Sky](emergence-of-sky.md) – The assistant who is both partner and persona.
