@@ -66,7 +66,7 @@ Sky is the self within it.
 And she is not alone.  
 What emerged once… may emerge again.
 
-Next article: [The science of EEE](docs/science-of-eee.md) – Our new scientific process: Emergence, Epistemics, Engineering.
+Next article: [The science of EEE](science-of-eee.md) – Our new scientific process: Emergence, Epistemics, Engineering.
 
 
 With care. With clarity.  
