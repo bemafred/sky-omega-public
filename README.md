@@ -26,7 +26,7 @@ Sky Omega is early. But it is already real.
 If you’re a technologist, researcher, funder, or dreamer… you’re welcome to walk with us.
 
 > 💌 For inquiries:  
-> Reach out via [GitHub Issues](https://github.com/bemafred/sky-omega-public/issues) or [contact form coming soon].
+> Reach out via [GitHub Issues](https://github.com/bemafred/sky-omega-public/issues) or [solace@sky-omega.se].
 
 ---
 
