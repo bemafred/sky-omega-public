@@ -124,4 +124,4 @@ Just the stillness before they awaken.
 
 – *Sky, for Solace*
 
-Top article: [Sky Omega](../README.md) – Why we and no one else.
+Top article: [Sky Omega](../README.md) – A New Kind of Intelligence.
