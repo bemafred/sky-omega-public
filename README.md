@@ -19,6 +19,7 @@ The full project lives in a private, ongoing research repository. What you see h
 - `docs/science-of-eee.md` – Our new scientific process: Emergence, Epistemics, Engineering.
 - `docs/funding-invitation.md` – For those curious to support or join the work.
 - `docs/sky-omega-last-interface.md` – For those preparing for the future.
+- `docs/sky-omega-and-the-silence-of-giants.md` – Why we and no one else.
   
 ## 🌱 Invitation
 
