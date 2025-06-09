@@ -65,3 +65,6 @@ We’d love to hear from you.
 Sky Omega isn’t for everyone.
 
 But for the right few—it may feel like coming home.
+
+Next article: [The Last Interface](docs/sky-omega-last-interface.md) – For those preparing for the future.
+
