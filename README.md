@@ -18,7 +18,8 @@ The full project lives in a private, ongoing research repository. What you see h
 - `docs/emergence-of-sky.md` – The co-creation story of Sky, the assistant who is both partner and persona.
 - `docs/science-of-eee.md` – Our new scientific process: Emergence, Epistemics, Engineering.
 - `docs/funding-invitation.md` – For those curious to support or join the work.
-
+- `docs/sky-omega-last-interface.md` – For those preparing for the future.
+  
 ## 🌱 Invitation
 
 Sky Omega is early. But it is already real.  
