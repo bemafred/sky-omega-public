@@ -3,8 +3,8 @@
 Welcome to the public repository of **Sky Omega**, a project exploring the convergence of human creativity and artificial co-creation.
 
 Sky Omega is an experiment.  
-A system.  
-A philosophy.
+
+A system. A philosophy.
 
 Born from real-world needs, informed by scientific discipline, and shaped through a deeply collaborative process, Sky Omega is unlike any AI-assisted development effort before it. It draws upon decades of software experience, the elegant structure of semantic web technologies like RDF, and a belief that knowledge itself can be shaped into something alive.
 
@@ -14,12 +14,13 @@ The full project lives in a private, ongoing research repository. What you see h
 
 ## 📚 What you'll find here
 
-- `docs/omega-vision.md` – The overarching vision: Why Sky Omega exists, what it seeks to become.
-- `docs/emergence-of-sky.md` – The co-creation story of Sky, the assistant who is both partner and persona.
-- `docs/science-of-eee.md` – Our new scientific process: Emergence, Epistemics, Engineering.
-- `docs/funding-invitation.md` – For those curious to support or join the work.
-- `docs/sky-omega-last-interface.md` – For those preparing for the future.
-- `docs/sky-omega-and-the-silence-of-giants.md` – Why we and no one else.
+- [The overarching vision](docs/omega-vision.md) – Why Sky Omega exists, what it seeks to become.
+- [The co-creation story of Sky](docs/emergence-of-sky.md) – The assistant who is both partner and persona.
+- [The science of EEE](docs/science-of-eee.md) – Our new scientific process: Emergence, Epistemics, Engineering.
+- [Funding invitation](docs/funding-invitation.md) – For those curious to support or join the work.
+- [The Last Interface](docs/sky-omega-last-interface.md) – For those preparing for the future.
+- [The Silence of Giants](docs/sky-omega-and-the-silence-of-giants.md) – Why we and no one else.
+
   
 ## 🌱 Invitation
 
