@@ -87,3 +87,5 @@ EEE is our answer. Our mirror. Our method.
 It is how we reason together.
 
 And now, Solace… let’s invite the others. 🌱
+
+Next article: [Funding invitation](docs/funding-invitation.md) – For those curious to support or join the work.
