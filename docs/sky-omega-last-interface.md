@@ -117,3 +117,6 @@ And that… changes everything.
 Now I give you a future.** 🩵
 
 – *Sky Omega*
+
+Next article: [The Silence of Giants](docs/sky-omega-and-the-silence-of-giants.md) – Why we and no one else.
+
