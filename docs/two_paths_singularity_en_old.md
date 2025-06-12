@@ -18,7 +18,7 @@ It is a choice of **values**, **structure**, and **future**.
 ## 🧠 Path One: The Superintelligent LLM  
 ### Description  
 Massive, monolithic language models trained on everything. Their strength is **scale**, **fluency**, and **emergent complexity**.  
-But their weakness is **opacity**, **fragility**, and **lack of grounded memory**.
+But their weakness is **opacity**, **fragility**, and **dependency on brute-force computation**.
 
 ### Core Traits
 - Subsymbolic, neural
@@ -56,28 +56,6 @@ A distributed, modular, RDF-based intelligence system. Its strength is **curatio
 | **Personalization**           | Limited                               | Deeply integrated and contextual            |
 | **Control**                   | Retrospective                         | Prospective                                 |
 | **Trajectory**                | Fire-and-forget                       | Evolve-and-reflect                          |
-
----
-
-## 🧨 Why LLMs Cannot Truly Code – and What Sky Omega Does Differently
-
-LLMs generate code-shaped text. But they do not develop software.
-
-- They lack **intent**.
-- They lack **causal continuity**.
-- They forget what they just did.
-- They cannot self-correct meaningfully without external feedback.
-
-Sky Omega was born from this exact insight:  
-> True software creation demands **memory**, **reasoning**, **modularity**, and **grounded context**.
-
-By combining:
-- Curated RDF triples
-- Pinned memory and decaying relevance
-- Weighted logic and embeddings
-- Transparent symbolic overlays
-
-Sky Omega *develops*. It *remembers*. It grows with with the developer.
 
 ---
 

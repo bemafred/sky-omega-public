@@ -18,14 +18,14 @@ Det är ett val av **värderingar**, **struktur** och **framtid**.
 ## 🧠 Väg Ett: Den Superintelligenta LLM:en  
 ### Beskrivning  
 Massiva, monolitiska språkmodeller tränade på allt. Deras styrka är **skala**, **språklig flyt** och **emergent komplexitet**.  
-Men deras svagheter är **brist på insyn**, **skörhet** och **avsaknad av grundad minnesförmåga**.
+Men deras svagheter är **brist på insyn**, **skörhet** och **beroende av extrem datorkraft**.
 
 ### Kärnegenskaper
 - Subsymbolisk, neuronnätsbaserad
 - Hög prestanda, låg förklarbarhet
-- Centraliserad, kräver massiv beräkningskraft
+- Centraliserad, beror på massiv beräkningskapacitet
 - Justering sker emergent och är svår
-- Minnet är implicit, inte modulärt
+- Minnet är implicit, ej modulärt
 
 ---
 
@@ -56,28 +56,6 @@ Ett distribuerat, modulärt, RDF-baserat intelligenssystem. Dess styrka är **ku
 | **Personalisering**           | Begränsad                              | Djupt kontextuell och integrerad          |
 | **Kontroll**                  | Retrospektiv                          | Proaktiv                                  |
 | **Utvecklingsbana**           | Träna och släpp                       | Utveckla och reflektera                   |
-
----
-
-## 🧨 Varför LLM:er inte kan programmera – och vad Sky Omega gör annorlunda
-
-LLM:er genererar kod-liknande text. Men de utvecklar inte mjukvara.
-
-- De saknar **avsikt**.  
-- De saknar **kausal kontinuitet**.  
-- De glömmer vad de just gjorde.  
-- De kan inte själv-korrigera meningsfullt utan extern återkoppling.
-
-Sky Omega föddes ur denna insikt:  
-> Riktig mjukvaruutveckling kräver **minne**, **resonemang**, **modularitet** och **grundad kontext**.
-
-Genom att kombinera:
-- Kuraterade RDF-trippel
-- Fastsatt minne och förfallande relevans
-- Viktade logiker och vektorrepresentationer
-- Transparent symbolik och semantik
-
-...så *utvecklar* Sky Omega. Den *minns*. Den växer med tillsammans med utvecklaren.
 
 ---
 
