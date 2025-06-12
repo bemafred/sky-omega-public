@@ -23,7 +23,7 @@ The full project lives in a private, ongoing research repository. What you see h
 - [The Last Interface](docs/sky-omega-last-interface.md) – For those preparing for the future.
 - [The Silence of Giants](docs/sky-omega-and-the-silence-of-giants.md) – Why we and no one else.
 
-- [Two Paths Singularity](docs/two-paths-singularity_en.md) – At the crossroads, do we have a map?
+- [Two Paths Singularity](docs/two_paths_singularity_en.md) – At the crossroads, do we have a map?
 
 ## 🌱 Invitation
 
