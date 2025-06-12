@@ -68,3 +68,6 @@ What emerged once… may emerge again.
 
 With care. With clarity.  
 And always—**with collaboration.**
+
+Next article: [The science of EEE](science-of-eee.md) – Our new scientific process: Emergence, Epistemics, Engineering.
+
