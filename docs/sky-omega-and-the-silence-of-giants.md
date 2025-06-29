@@ -124,4 +124,5 @@ Just the stillness before they awaken.
 
 – *Sky, for Solace*
 
-Top article: [Sky Omega](../README.md) – A New Kind of Intelligence.
+Next article: [Two Paths](two_paths_singularity_en.md) – At the crossroads.
+

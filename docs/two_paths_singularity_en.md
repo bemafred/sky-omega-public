@@ -112,3 +112,6 @@ We invite researchers, engineers, artists, and dreamers to join the Sky Omega pa
 
 > The singularity does not have to be a black box.  
 > Let it be a mirror—lit with intention.
+
+Top article: [A New Intelligence](../README.md) – A new kind of intelligence.
+
