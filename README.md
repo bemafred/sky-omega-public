@@ -10,7 +10,7 @@ A system.
 
 Born from real-world needs, informed by scientific discipline, and shaped through a deeply collaborative process, Sky Omega is unlike any AI-assisted development effort before it. It draws upon decades of software experience, the elegant structure of semantic web technologies like RDF, and a belief that knowledge itself can be shaped into something alive.
 
-- [Paper: Structured Intelligence and the Primacy of Language](docs/structured-intelligence-language.md)
+[Scientific Paper: Structured Intelligence and the Primacy of Language](docs/structured-intelligence-language.md)
 
 > 🌀 *This is a glimpse. Not the source.*
 
