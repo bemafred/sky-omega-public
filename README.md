@@ -16,15 +16,52 @@ Born from real-world needs, informed by scientific discipline, and shaped throug
 
 The full project lives in a private, ongoing research repository. What you see here are selected documents and essays—offered to seed ideas, inspire collaboration, and invite visionary supporters who see the future forming just ahead of the curve.
 
+## 🏗️ What this repository is (and isn't)
+
+**This is a conceptual interface layer.**
+
+The principles, architectures, and insights documented here are **extracted from working systems** — not theoretical speculation. E-Clean & Semantic Architecture has been implemented, tested, and refined in production environments over years of development.
+
+However, this public repository contains:
+
+- ✅ **Architectural principles** — distilled from real-world experience
+- ✅ **Conceptual frameworks** — E-Clean & Semantic Architecture
+- ✅ **Vision documents** — the future we're building toward
+- ✅ **Philosophical context** — why this matters
+
+It does **not** contain:
+
+- ❌ **Implementation code** — kept in private research repository
+- ❌ **Reference architectures** — proprietary and commercially sensitive
+- ❌ **Detailed technical specifications** — available to serious collaborators
+- ❌ **Working Sky Omega components** — under active development
+
+**Why this separation?**
+
+We believe that valuable ideas should be shared openly, while protecting the specific implementations that give them practical form. This allows:
+
+- **Knowledge transfer** without competitive exposure
+- **Collaboration filtering** — engaging with those who grasp the principles
+- **Intellectual honesty** — claims are grounded, not speculative
+- **Strategic flexibility** — preserving future options for commercialization or open-sourcing
+
+If you're evaluating this work, we invite you to assess:
+
+1. **Do the principles address real problems you recognize?**
+2. **Is the internal logic coherent and falsifiable?**
+3. **Would working implementations validate these claims?**
+
+For serious inquiries about implementation details, working demonstrations, or collaboration opportunities, please reach out directly.
+
 ## 📚 What you'll find here
 
 - [The overarching vision](docs/omega-vision.md) – Why Sky Omega exists, what it seeks to become.
 - [The co-creation story of Sky](docs/emergence-of-sky.md) – The assistant who is both partner and persona.
 - [The science of EEE](docs/science-of-eee.md) – Our new scientific process: Emergence, Epistemics, Engineering.
+- [E-Clean & Semantic Architecture](docs/e-clean-and-semantic-architecture.md) – The semantic discipline (architectural) foundation Sky Omega builds on.
 - [Funding invitation](docs/funding-invitation.md) – For those curious to support or join the work.
 - [The Last Interface](docs/sky-omega-last-interface.md) – For those preparing for the future.
 - [The Silence of Giants](docs/sky-omega-and-the-silence-of-giants.md) – Why we and no one else.
-
 - [Two Paths Singularity](docs/two_paths_singularity_en.md) – At the crossroads, do we have a map?
 
 ## 🌱 Invitation

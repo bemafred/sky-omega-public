@@ -53,6 +53,24 @@ You help shape:
 
 ---
 
+## What we're offering to see
+
+**Principles, not implementation — yet.**
+
+This public repository contains distilled architectural insights from working systems. The full reference implementation, Sky Omega components, and production case studies remain private during this development phase.
+
+**For serious funding discussions, we provide:**
+
+* Access to working reference architecture
+* Detailed technical walkthroughs
+* Demonstrations of Sky Omega components (current state)
+* Case studies from production systems
+* Architectural deep-dives with the development team
+
+We believe in earning trust through substance, not promises. The conceptual clarity you see here reflects executable reality — we simply protect the implementation while we mature the vision.
+
+---
+
 ## 🌌 Connect With Us
 
 If something here resonates…  
