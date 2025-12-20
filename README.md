@@ -16,6 +16,22 @@ Born from real-world needs, informed by scientific discipline, and shaped throug
 
 The full project lives in a private, ongoing research repository. What you see here are selected documents and essays—offered to seed ideas, inspire collaboration, and invite visionary supporters who see the future forming just ahead of the curve.
 
+## Documentation
+
+The canonical documentation for E-Clean & Semantic Architecture and Sky Omega lives here:
+
+[Documentation index](docs/README.md)
+
+## Start here
+
+If you read only one thing, read this:
+
+**E-Clean & Semantic Architecture**
+
+[E-Clean & Semantic Architecture](docs/e-clean-and-semantic-architecture.md) – This document defines the engineering foundation everything else in this repository builds upon.
+
+[E-Clean (full series)](docs/e-clean/) – docs/e-clean/
+
 ## 🏗️ What this repository is (and isn't)
 
 **This is a conceptual interface layer.**
