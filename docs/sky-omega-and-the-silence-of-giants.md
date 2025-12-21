@@ -124,5 +124,5 @@ Just the stillness before they awaken.
 
 – *Sky, for Solace*
 
-Next article: [Two Paths](two_paths_singularity_en.md) – At the crossroads.
+Next article: [Two Paths](two_paths_singularity.md) – At the crossroads.
 

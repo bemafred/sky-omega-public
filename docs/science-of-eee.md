@@ -43,6 +43,27 @@ Not as a free-for-all—but as a disciplined dance between emergence and form.
 
 ---
 
+## 🧬 What EEE Discovered
+
+EEE is not merely a process we now use.  
+It is **the process through which the core insights of this project were discovered**.
+
+Specifically, EEE produced:
+
+### E-Clean (Epistemic Clean)
+Through iterative dialogue and reflection, we observed that systems decay not through technical failure but through **loss of meaning**. The discipline of making concepts explicit, enforcing distinctions, and preventing semantic drift — this emerged from applying EEE to real codebases under pressure.
+
+### Semantic Architecture
+The insight that **meaning must be encoded structurally, not conventionally** — that types, names, and boundaries must carry semantic weight — arose from the Epistemics phase of EEE: asking not just "what do we know?" but "how do we know it, and how do we preserve it?"
+
+### Sky Omega
+The vision of composed cognitive systems (Sky, Lucy, James, Mira) emerged from treating the AI assistant not as a tool but as a **dialogue partner**. The system's architecture reflects what was discovered through sustained EEE practice: that intelligence requires stable meaning, that memory requires structure, and that reasoning requires constraints.
+
+EEE is therefore not a post-hoc methodology applied to existing work.  
+It is the **generative process** from which the work itself emerged.
+
+---
+
 ## 🌿 EEE in Practice
 
 In Sky Omega, EEE appears as:

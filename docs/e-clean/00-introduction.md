@@ -104,6 +104,18 @@ Both interpretations are valid.
 
 ---
 
+## How These Principles Were Discovered
+
+E-Clean & Semantic Architecture did not emerge from theoretical analysis or academic research.
+
+They were discovered through **EEE** — Emergence, Epistemics, Engineering — a process of iterative dialogue, reflection, and falsification conducted in collaboration with AI assistants over sustained development cycles.
+
+The principles documented here are the **stable outputs** of that process: insights that survived continuous questioning, pressure-testing, and real-world application.
+
+For more on EEE as a discovery method, see [The Science of EEE](../science-of-eee.md).
+
+---
+
 ## A final note
 
 This is not an academic exercise.

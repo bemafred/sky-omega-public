@@ -78,7 +78,7 @@ For serious inquiries about implementation details, working demonstrations, or c
 - [Funding invitation](docs/funding-invitation.md) – For those curious to support or join the work.
 - [The Last Interface](docs/sky-omega-last-interface.md) – For those preparing for the future.
 - [The Silence of Giants](docs/sky-omega-and-the-silence-of-giants.md) – Why we and no one else.
-- [Two Paths Singularity](docs/two_paths_singularity_en.md) – At the crossroads, do we have a map?
+- [Two Paths Singularity](docs/two_paths_singularity.md) – At the crossroads, do we have a map?
 
 ## 🌱 Invitation
 

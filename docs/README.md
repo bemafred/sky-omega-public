@@ -23,5 +23,4 @@
 
 ## Essays
 
-- [Two Paths to Singularity (EN)](two_paths_singularity_en.md)
-- [Two Paths to Singularity (SV)](two_paths_singularity_sv.md)
+- [Two Paths to Singularity](two_paths_singularity.md)

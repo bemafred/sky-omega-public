@@ -127,9 +127,6 @@ If you need more than conceptual validation, reach out for collaboration discuss
 ---
 
 ## The connecting insight
----
-
-## The connecting insight
 
 Gradual legacy transformation and future AI capability are not separate concerns.
 
