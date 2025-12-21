@@ -105,6 +105,16 @@ Some already approach parts of it.
 
 Until then, architectural integrity requires acknowledging the constraint.
 
+## Platform stance
+
+E-Clean & Semantic Architecture does not require any single exotic capability.
+
+What it requires is the simultaneous presence of three pillars — runtime expression rewriting, deep reflection, and compiler enforcement — combined with enough ergonomics that they can be used together as everyday engineering primitives.
+
+Many platforms support one or two of these pillars in isolation. Fewer support all three at once. Fewer still do so without fragmenting the solution across multiple toolchains, conventions, or framework-specific magic.
+
+Modern .NET and C# are not uniquely capable in principle — but they are unusually well-suited in practice, because this intersection exists as a coherent, refactor-safe, tool-supported whole. For E-Clean, ergonomics is not optional; it is the condition that determines whether the architecture survives contact with reality.
+
 ---
 
 ## Platform dependence is not lock-in
