@@ -115,6 +115,16 @@ Many platforms support one or two of these pillars in isolation. Fewer support a
 
 Modern .NET and C# are not uniquely capable in principle — but they are unusually well-suited in practice, because this intersection exists as a coherent, refactor-safe, tool-supported whole. For E-Clean, ergonomics is not optional; it is the condition that determines whether the architecture survives contact with reality.
 
+## Origin of the architecture
+
+E-Clean & Semantic Architecture did not emerge as a theoretical comparison of platforms. It emerged from deliberate pressure-testing of the modern .NET and C# platform itself.
+
+The architecture is the result of repeatedly asking: “Can this semantic invariant be expressed, enforced, rewritten, validated, and evolved — without breaking ergonomics or developer flow?”
+
+Where the platform resisted, the idea was rejected or reshaped. What remains is therefore not an abstract ideal, but a distilled set of patterns that demonstrably fit within the practical limits of C#, the .NET runtime, and its tooling ecosystem.
+
+Claims about other platforms may be true in principle. This architecture, however, is grounded in what has been shown to work in practice, under sustained real-world constraints.
+
 ---
 
 ## Platform dependence is not lock-in
