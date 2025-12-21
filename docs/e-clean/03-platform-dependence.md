@@ -115,6 +115,8 @@ Many platforms support one or two of these pillars in isolation. Fewer support a
 
 Modern .NET and C# are not uniquely capable in principle — but they are unusually well-suited in practice, because this intersection exists as a coherent, refactor-safe, tool-supported whole. For E-Clean, ergonomics is not optional; it is the condition that determines whether the architecture survives contact with reality.
 
+>The complexity of .NET Expression Trees and Reflection is encapsulated within the system's infrastructure. For the application developer, these features manifest as extended compiler intelligence. You don't write the reflection; you benefit from a system that 'understands' your code's intent as you type it.
+
 ## Origin of the architecture
 
 E-Clean & Semantic Architecture did not emerge as a theoretical comparison of platforms. It emerged from deliberate pressure-testing of the modern .NET and C# platform itself.

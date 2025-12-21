@@ -79,6 +79,12 @@ E-Clean & Semantic Architecture was developed before AI entered the picture — 
 
 ---
 
+## Not a tax to pay
+
+E-Clean is not a tax on every line of code. It is an investment in a **Semantic Substrate**. While the 'Engine' uses complex platform features to enforce meaning, the daily developer experience is one of unprecedented clarity and safety, not boilerplate or metaprogramming.
+
+---
+
 ## How to read this section
 
 This documentation is structured to move from:

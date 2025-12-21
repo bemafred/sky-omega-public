@@ -126,6 +126,12 @@ If you need more than conceptual validation, reach out for collaboration discuss
 
 ---
 
+### 4. Do my developers need to be .NET experts?
+
+No. They need to be Domain Experts. The system is designed so that a developer focused on business logic never has to touch an expression tree. The 'Engine' is built once; the 'Meaning' is evolved daily.
+
+---
+
 ## The connecting insight
 
 Gradual legacy transformation and future AI capability are not separate concerns.

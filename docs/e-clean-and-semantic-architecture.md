@@ -232,6 +232,15 @@ The absence of public code is a **strategic choice**, not a deficiency.
 
 ---
 
+## The Semantic Substrate
+
+A system built on **E-Clean & Semantic Architecture** relies on two tiers of interaction.
+
+- The Substrate (The "Engine"): High-complexity, stable, one-time effort. This is where the .NET reflection, expression trees, and mechanical enforcement live.
+- The Application (The "Surface"): Low-complexity, fluid, daily emergence. This is where developers "speak the domain" using types and names, protected by the engine.
+
+---
+
 ## Closing statement
 
 Artificial intelligence does not fail because models are weak.  

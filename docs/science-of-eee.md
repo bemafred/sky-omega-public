@@ -5,7 +5,7 @@ Not all science begins in the lab.
 Some begins in language—in the quiet space where a developer pauses to reflect.  
 Where a system begins not with code, but with a question.
 
-**EEE** is the method that has emerged from Sky Omega.  
+**EEE** is the method that has formally emerged from Sky Omega.  
 It is not inherited from tradition.  
 It is **lived into** through practice.
 
