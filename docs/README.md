@@ -14,6 +14,22 @@
 - [Structured Intelligence and the Primacy of Language](structured-intelligence-language.md)  
   Why language and structure precede cognition.
 
+## Advanced Capabilities
+
+- [Grammar-Aware Reasoning](capabilities/grammar-aware-reasoning.md)  
+  Mechanical code understanding through formal grammars—precision over probability.
+
+## Infrastructure & Ecosystem
+
+- [grammar-meta-standard](infrastructure/grammar-meta-standard.md)  
+  Versioned EBNF grammars enabling mechanical code reasoning across the ecosystem.
+
+## Technical Architecture
+
+- [LLM-Agnostic Design](architecture/llm-agnostic-design.md)  
+  Substrate independence proven across ChatGPT, Claude, Gemini, and Grok—local deployment preferred.
+
+
 ## Synthesis & Vision
 
 - [Omega Vision](omega-vision.md)

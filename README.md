@@ -69,6 +69,22 @@ If you're evaluating this work, we invite you to assess:
 
 For serious inquiries about implementation details, working demonstrations, or collaboration opportunities, please reach out directly.
 
+## LLM-Agnostic Design
+
+Sky Omega is designed to be **substrate-independent** - it works with any capable LLM:
+
+**Validated across**: ChatGPT, Claude, Gemini, Grok  
+**Preferred deployment**: Local LLMs (Ollama, LM Studio, etc.)
+
+**Why local preference?**
+- **Security**: Sensitive data stays on-premises
+- **Privacy**: No external API calls with proprietary information
+- **Sovereignty**: Full control over AI infrastructure
+- **Cost**: No per-token pricing at scale
+- **Reliability**: No dependency on external service availability
+
+The EEE principles (Emergence, Epistemics, Engineering) are **architectural**, not model-specific.
+
 ## 📚 What you'll find here
 
 - [The overarching vision](docs/omega-vision.md) – Why Sky Omega exists, what it seeks to become.

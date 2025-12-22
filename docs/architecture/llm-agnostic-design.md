@@ -79,16 +79,16 @@ Popular open-source models that work well:
 ## Architectural Separation of Concerns
 
 ```
-┌─────────────────────────────────────────────────────┐
-│             Sky Omega Architecture                   │
-├─────────────────────────────────────────────────────┤
-│  Sky (Intelligence) ←→ Lucy (Memory) ←→ James (Orchestration)  │
-│                          ↕                           │
-│                  LLM Interface Layer                 │
-│                          ↕                           │
-├─────────────────────────────────────────────────────┤
-│  [ChatGPT] [Claude] [Gemini] [Grok] [Local Models]  │
-└─────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────┐
+│                     Sky Omega Architecture                     │
+├────────────────────────────────────────────────────────────────┤
+│    Sky (Language) ←→ James (Orchestration) ←→ Lucy (Memory)    │
+│                                ↕                               │
+│                      LLM Interface Layer                       │
+│                                ↕                               │
+├────────────────────────────────────────────────────────────────┤
+│       [ChatGPT] [Claude] [Gemini] [Grok] [Local Models]        │
+└────────────────────────────────────────────────────────────────┘
 ```
 
 The LLM is **stateless inference** — Sky Omega provides the state, memory, and continuity.
