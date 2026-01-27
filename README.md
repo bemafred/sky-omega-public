@@ -14,7 +14,14 @@ Born from real-world needs, informed by scientific discipline, and shaped throug
 
 > 🌀 *This is a glimpse. Not the source.*
 
-The full project lives in a private, ongoing research repository. What you see here are selected documents and essays—offered to seed ideas, inspire collaboration, and invite visionary supporters who see the future forming just ahead of the curve.
+The full project lives in a public, ongoing research repository. What you see here are selected documents and essays—offered to seed ideas, inspire collaboration, and invite visionary supporters who see the future forming just ahead of the curve.
+
+## Repositories
+
+- **[sky-omega](https://github.com/bemafred/sky-omega)** — Implementation (MIT license)
+- **[sky-omega-public](https://github.com/bemafred/sky-omega-public)** — Conceptual documentation (this repo)
+- **[grammar-meta-standard](https://github.com/canyala/grammar-meta-standard)** — EBNF grammars for grammar-aware reasoning
+
 
 ## Documentation
 
