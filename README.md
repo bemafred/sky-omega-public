@@ -54,19 +54,11 @@ However, this public repository contains:
 
 It does **not** contain:
 
-- ❌ **Implementation code** — kept in private research repository
+- ❌ **Implementation code** — kept in the public research repository
 - ❌ **Reference architectures** — proprietary and commercially sensitive
-- ❌ **Detailed technical specifications** — available to serious collaborators
-- ❌ **Working Sky Omega components** — under active development
-
-**Why this separation?**
-
-We believe that valuable ideas should be shared openly, while protecting the specific implementations that give them practical form. This allows:
-
-- **Knowledge transfer** without competitive exposure
-- **Collaboration filtering** — engaging with those who grasp the principles
-- **Intellectual honesty** — claims are grounded, not speculative
-- **Strategic flexibility** — preserving future options for commercialization or open-sourcing
+- ❌ **Detailed technical specifications** — available to serious collaborators, see the public research repository
+- ❌ **Working Sky Omega components** — under active development in the research repository
+ 
 
 If you're evaluating this work, we invite you to assess:
 
