@@ -53,21 +53,30 @@ You help shape:
 
 ---
 
-## What we're offering to see
+## What's Already Public
 
-**Principles, not implementation — yet.**
+**The substrate is open.**
 
-This public repository contains distilled architectural insights from working systems. The full reference implementation, Sky Omega components, and production case studies remain private during this development phase.
+[Mercury](https://github.com/bemafred/sky-omega) — the high-performance RDF/SPARQL engine at the heart of Sky Omega — is now public under the MIT license. This includes:
 
-**For serious funding discussions, we provide:**
+* Zero-GC, bitemporal RDF quad store
+* Full SPARQL 1.1 Query and Update (94/94 W3C conformance)
+* B+Tree indexes with memory-mapped storage
+* Streaming parsers for Turtle, N-Triples, N-Quads, TriG, RDF/XML, JSON-LD
+* OWL/RDFS reasoning, federated queries, full-text search
+* Production-ready, BCL-only (no external dependencies)
 
-* Access to working reference architecture
-* Detailed technical walkthroughs
-* Demonstrations of Sky Omega components (current state)
-* Case studies from production systems
-* Architectural deep-dives with the development team
+The engine is free. Use it. Build on it. The code speaks for itself.
 
-We believe in earning trust through substance, not promises. The conceptual clarity you see here reflects executable reality — we simply protect the implementation while we mature the vision.
+**What partnership unlocks:**
+
+* Integration expertise — connecting Mercury to LLMs, building the full Sky Omega stack
+* EEE methodology guidance — applying Emergence, Epistemics, Engineering to your domain
+* Architectural consultation — E-Clean & Semantic Architecture for your systems
+* Co-development — building Lucy, James, Mira, and the layers above the substrate
+* Early access to emerging components as the vision matures
+
+We believe in earning trust through substance, not promises. The substrate is already public. The expertise to wield it travels with the builder.
 
 ---
 
