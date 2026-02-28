@@ -1,6 +1,6 @@
-<p style="display: flex; justify-content: center;">
+<div align="center">
   <img src="docs/assets/edgar-badge.svg" alt="Edgar" width="200">
-</p>
+</div>
 
 # Sky Omega – A New Kind of Intelligence
 
