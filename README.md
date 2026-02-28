@@ -1,3 +1,7 @@
+<p style="text-align: center;">
+  <img src="docs/assets/edgar-badge.svg" alt="Edgar" width="200">
+</p>
+
 # Sky Omega – A New Kind of Intelligence
 
 Welcome to the public repository of **Sky Omega**, a project exploring the convergence of human creativity and artificial co-creation.
