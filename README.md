@@ -1,4 +1,4 @@
-<p style="text-align: center;">
+<p style="display: flex; justify-content: center;">
   <img src="docs/assets/edgar-badge.svg" alt="Edgar" width="200">
 </p>
 
